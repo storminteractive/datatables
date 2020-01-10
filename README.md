@@ -1,2 +1,0 @@
-# datatables
-Created with CodeSandbox
